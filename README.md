@@ -12,26 +12,32 @@ There were 38,010 helpful reviews.
 <img width="360" alt="Screen Shot 2021-08-05 at 9 41 49 AM" src="https://user-images.githubusercontent.com/82460401/128369487-f50f08f7-afc5-4795-a237-398f652f7893.png">
 
 There were 170 paide reviews. 
+
 <img width="360" alt="Screen Shot 2021-08-05 at 9 41 49 AM" src="https://user-images.githubusercontent.com/82460401/128370000-e3c46818-db49-404c-ba08-94dbda8ac850.png">
 
 There were 37,840 unpaid reviews. 
+
 <img width="480" alt="Screen Shot 2021-08-05 at 9 45 25 AM" src="https://user-images.githubusercontent.com/82460401/128370138-a0801fe2-ab24-4ddb-b496-12ca4bd6ebee.png">
 
 
 ##### 2. How many Vine reviews were 5 stars? 
 Of the 170 paid reviews only 65 of them were 5 star reviews. 
+
 https://www.tutorialspoint.com/logistic_regression_in_python/logistic_regression_in_python_quick_guide.htm
 
 ##### 3. How many non-Vine reviews were 5 stars?
 Of the 37,840 unpaid reviews 20,612 were 5 star reviews. 
+
 https://www.tutorialspoint.com/logistic_regression_in_python/logistic_regression_in_python_quick_guide.htm
 
 ##### 4. What percentage of Vine reviews were 5 stars? 
 Roughly 38% of the paid reviews were 5 star.
+
 https://www.tutorialspoint.com/logistic_regression_in_python/logistic_regression_in_python_quick_guide.htm
 
 ##### 5. What percentage of non-Vine reviews were 5 stars?
 Roughly 54% of the unpaid reviews were 5 star. 
+
 https://www.tutorialspoint.com/logistic_regression_in_python/logistic_regression_in_python_quick_guide.htm
 
 ### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
